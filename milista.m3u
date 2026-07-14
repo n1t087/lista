@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Telefe_Internacional.png" group-title="Canales Argentina",Telefé
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Telefe-verano2011.png" group-title="Canales Argentina",Telefé
 http://190.108.83.69:8000/play/a08l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="Canales Argentina",El Trece
