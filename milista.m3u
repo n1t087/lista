@@ -143,7 +143,7 @@ http://190.61.101.11:7050/play/a06a/index.m3u8?hls
 http://181.119.84.106:8000/play/a0pb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="HBO",HBO Plus
-http://186.33.0.57:8000/play/a00o/index.m3u8
+http://181.224.255.210:8001/play/a0qz/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/960px-HBO_Pop.svg.png" group-title="HBO",HBO POP HD
 http://181.78.67.171:8000/play/a111/index.m3u8
