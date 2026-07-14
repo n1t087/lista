@@ -36,6 +36,9 @@ http://190.7.19.197:232/play/a03c/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Quiero_Musica_TV.png" group-title="Canales Argentina", Quiero Musica
 http://190.7.19.197:232/play/a04r/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFqTXRTC/CZJMM4-BJVRFANO4-VGMMYWSTEVE.webp" group-title="Canales Argentina", Radio LA 100
+https://mdstrm.com/live-stream-playlist/68b74fd1d6512526f1f7c75a.m3u8
+
 
 
 
