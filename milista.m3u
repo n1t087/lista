@@ -16,7 +16,8 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=084be97
 http://190.7.19.197:232/play/a03z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Canales Argentina",América TV
-http://190.7.19.197:232/play/a03b/index.m3u8
+
+https://full-online.xyz/proxy/america/?url=https%3A%2F%2Fdai.google.com%2Flinear%2Fhls%2Fpa%2Fevent%2FOY2i_lL4SMyXE5Zaj4ULEg%2Fstream%2Fe5f69280-19e9-4faf-9914-e903758e7a2d%3ASCL2%2Fvariant%2F085a2414a253631c90e7ac89ccc9f934%2Fbandwidth%2F1031000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="Canales Argentina",C5N
 http://190.7.19.197:232/play/a040/index.m3u8
