@@ -203,7 +203,7 @@ http://190.7.19.197:232/play/a037/index.m3u8
 http://190.61.101.11:7050/play/a05d/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD 
-http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
+http://177.93.41.134:4000/play/a1cw/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",DSports
 http://191.97.59.33:8000/play/a09t/index.m3u8
