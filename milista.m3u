@@ -13,7 +13,7 @@ http://15.204.246.24:8080/TNHD/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8?uid=084be97bc617823d58d799e4629770e4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/A24-logonuevo.svg" group-title="Canales Argentina",A24
-http://190.7.19.197:232/play/a03z/index.m3u8
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Canales Argentina",América TV
 
