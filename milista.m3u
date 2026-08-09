@@ -267,7 +267,7 @@ http://177.93.41.134:4000/play/a1cx/index.m3u8
 http://181.224.255.210:8001/play/a0fm/index.m3u8?hls
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_(outline).svg/960px-Nick_Jr._logo_2023_(outline).svg.png",Nick JR HD 
-http://190.61.34.164:8000/play/a01f/index.m3u8
+http://177.93.41.134:4000/play/a1cf/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/960px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",Dreamswork 
 http://190.61.34.164:8000/play/a04e/index.m3u8
