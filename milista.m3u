@@ -103,7 +103,7 @@ http://181.224.255.210:8001/play/a0oc/index.m3u8?hls
 http://181.224.255.210:8001/play/a0qg/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="Cine / Películas Premium HD",Golden EDGE 
-http://190.61.34.164:8000/play/a022/index.m3u8
+http://177.93.41.134:4000/play/a1ei/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jZsrJSzH/MP.png" group-title="Cine / Películas Premium HD",Multipremier HD
 http://24.152.42.29:8000/play/a06v/index.m3u8?hls
