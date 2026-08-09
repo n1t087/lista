@@ -258,7 +258,7 @@ https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/p
 http://205.235.6.29:8000/play/a0zp/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2JPtmZR.png" group-title="Infantiles",Discovery Kids HD
-http://190.61.34.164:8000/play/a01b/index.m3u8
+http://177.93.41.134:4000/play/a1e3/index.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
 http://177.93.41.134:4000/play/a1cx/index.m3u8
