@@ -109,7 +109,7 @@ http://177.93.41.134:4000/play/a1ei/index.m3u8
 http://24.152.42.29:8000/play/a06v/index.m3u8?hls
 
 #EXTINF:-1 group-title="Cine / Películas Premium HD" tvg-logo="https://i.imgur.com/QpDkrmT.png",TCM
-http://190.61.34.164:8000/play/a02b/index.m3u8
+http://177.93.41.134:4000/play/a1ek/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Cine / Películas Premium HD",AMC HD
 http://181.224.255.210:8001/play/a0f7/index.m3u8?hls
